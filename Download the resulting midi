@@ -1,0 +1,9 @@
+#@title Download the resulting midi
+from google.colab import files
+
+# Define the path to your generated MIDI file
+midi_file_path = 'melody.mid'
+
+# Use the files.download() function to create a download link
+files.download(midi_file_path)
+
