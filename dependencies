@@ -1,0 +1,8 @@
+#dependencies
+!pip install fluidsynth
+!pip install mido
+!pip install numpy
+!pip install midi2audio
+!pip install random
+!sudo apt-get install fluidsynth
+!pip install midi2audio
